@@ -8,5 +8,5 @@ Este repositorio contiene la estructura de las tablas, los procedimientos almace
 
 - `tablas/` → Contiene la definición de las tablas.
 - `triggers/` → Contiene los triggers.
-- `procedimientos/` → Contiene los procedimientos almacenados.
+- `Store Procedure/` → Contiene los procedimientos almacenados.
 
