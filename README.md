@@ -6,7 +6,7 @@ Este repositorio contiene la estructura de las tablas, los procedimientos almace
 
 ## 📂 Estructura del Repositorio
 
-- `tablas/` → Contiene la definición de las tablas.
-- `triggers/` → Contiene los triggers.
+- `Tablas/` → Contiene la definición de las tablas.
+- `Triggers/` → Contiene los triggers.
 - `Store Procedure/` → Contiene los procedimientos almacenados.
 
